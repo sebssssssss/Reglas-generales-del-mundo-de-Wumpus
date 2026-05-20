@@ -1,2 +1,2 @@
 # Reglas-generales-del-mundo-de-Wumpus
-Implementar un módulo capaz de construir y actualizar una base de conocimiento proposicional (KB) a partir de reglas lógicas y percepciones sensoriales en el entorno del mundo de Wumpus.
+Desarrollar un traductor que, dadas las percepciones del agente en cada casilla visitada, genere las proposiciones correspondientes y las incorpore a la base de conocimiento. Además, deberá representar las reglas generales del mundo de Wumpus en forma lógica y normalizarlas en forma normal conjuntiva (FNC), para permitir su posterior uso en un motor de inferencia.
